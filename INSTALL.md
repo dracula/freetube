@@ -1,4 +1,4 @@
-### [Foobar](https://foobar.com)
+### [FreeTube](https://freetubeapp.io/)
 
 #### Install
 
