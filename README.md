@@ -2,7 +2,7 @@
 
 > A dark theme for  [FreeTube](https://freetubeapp.io/).
 
-![Screenshot](./screenshot.png)
+![Screenshot](./Screenshot.png)
 
 ## Install
 
