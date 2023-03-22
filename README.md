@@ -1,8 +1,8 @@
 # Dracula for [FreeTube](https://freetubeapp.io/)
 
-> A dark theme for  [FreeTube](https://freetubeapp.io/).
+> A dark theme for [FreeTube](https://freetubeapp.io/).
 
-![Screenshot](./Screenshot.png)
+![Screenshot](./screenshot.png)
 
 ## Install
 
